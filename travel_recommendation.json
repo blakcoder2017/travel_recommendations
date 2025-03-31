@@ -53,13 +53,13 @@
     {
     "id": 1,
     "name": "Angkor Wat, Cambodia",
-    "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+    "imageUrl": "https://transcode-v2.app.engoo.com/image/fetch/f_auto,c_limit,w_1280,h_800,dpr_2/https://assets.app.engoo.com/images/0caH3cLF2j2t2CfYlm9KNY.jpeg",
     "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
     "id": 2,
     "name": "Taj Mahal, India",
-    "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+    "imageUrl": "https://static.wixstatic.com/media/055605_65e20a7fcbc54e2e8720adfc2544c35e~mv2.jpg/v1/fill/w_1367,h_1082,al_c,q_85,enc_avif,quality_auto/taj_new_contant_edited.jpg",
     "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
     ],
@@ -67,13 +67,13 @@
     {
     "id": 1,
     "name": "Bora Bora, French Polynesia",
-    "imageUrl": "enter_your_image_for_bora-bora.jpg",
+    "imageUrl": "https://www.polynesiaparadise.com/wp-content/uploads/aerial-view-bora-bora-lagoon-bungalows.jpg",
     "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
     "id": 2,
     "name": "Copacabana Beach, Brazil",
-    "imageUrl": "enter_your_image_for_copacabana.jpg",
+    "imageUrl": "https://media.istockphoto.com/id/1250523627/photo/copacabana-sidewalk-mosaic-and-palm-trees-in-rio-de-janeiro.jpg?s=2048x2048&w=is&k=20&c=An_o2jC4586yhTqvZQjxLLiB4VjHz5OEFuqHHUJJ1vg=",
     "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
     ]
